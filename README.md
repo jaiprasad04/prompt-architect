@@ -4,7 +4,7 @@
 
 ## 🌐 Try the Live Workspace
 
-**Hosted Demo:** [prompt-architect.vercel.app](https://prompt-architect.vercel.app)
+**Hosted Demo:** [prompt-architect-one-nu.vercel.app](https://prompt-architect-one-nu.vercel.app/)
 
 Experience the full glassmorphic, responsive workspace. Sign in with Google to explore the Prompt Architect Studio, refinement threads, and pricing credit packages directly from your browser.
 
